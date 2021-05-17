@@ -1,1 +1,7 @@
 curl -X POST -H "Content-Type: application/json" -H "ApiKey: ccb44ea2e185007dfa5118b234fc585d35e3c52a565c17fa3fe9ce5e0b953b67" -d '{"CardScheme":"gea","SearchFields": {"regno":"00000001","surname":"rpltest"}}' https://cardcheck.gosmart.co.uk/api/Search
+
+
+deb http://mirror.amberit.com.bd/ubuntu-archive/ bionic main restricted universe multiverse
+deb http://mirror.amberit.com.bd/ubuntu-archive/ bionic-security main restricted universe multiverse
+deb http://mirror.amberit.com.bd/ubuntu-archive/ bionic-updates main restricted universe multiverse
+deb http://mirror.amberit.com.bd/ubuntu-archive/ bionic-backports main restricted universe multiverse
