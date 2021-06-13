@@ -1,0 +1,4 @@
+deb http://mirror.amberit.com.bd/ubuntu-archive/ bionic main restricted universe multiverse
+deb http://mirror.amberit.com.bd/ubuntu-archive/ bionic-security main restricted universe multiverse
+deb http://mirror.amberit.com.bd/ubuntu-archive/ bionic-updates main restricted universe multiverse
+deb http://mirror.amberit.com.bd/ubuntu-archive/ bionic-backports main restricted universe multiverse
